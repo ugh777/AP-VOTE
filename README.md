@@ -104,10 +104,10 @@
                             label: 'Votes',
                             data: votes,
                             backgroundColor: [
-                                'rgb(255, 99, 132)',
-                                'rgb(54, 162, 235)',
-                                'rgb(255, 205, 86)',
-                                'rgb(75, 192, 192)',
+                                'rgb(100, 50, 75)',
+                                'rgb(75, 50, 100)',
+                                'rgb(75, 100, 50)',
+                                'rgb(50, 75, 100)',
                             ],
                             hoverOffset: 4
                         }]
