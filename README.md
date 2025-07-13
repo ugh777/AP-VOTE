@@ -28,10 +28,10 @@
             <select id="color" 
                     class="border border-gray-300 rounded-md 
                            py-2 px-3 focus:outline-none">
-                <option value="Red">ysrcp</option>
-                <option value="Blue">tdp</option>
-                <option value="Green">janasena</option>
-                <option value="Yellow">bjp</option>
+                <option value="fan">ysrcp</option>
+                <option value="cycle">tdp</option>
+                <option value="glass">janasena</option>
+                <option value="flower">bjp</option>
             </select>
         </div>
         <button id="voteButton"
