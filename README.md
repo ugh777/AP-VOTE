@@ -22,7 +22,7 @@
               Online Voting
           </h1>
         <div class="flex flex-col mb-4">
-            <label for="color" class="text-lg font-semibold mb-2">
+            <label for="party" class="text-lg font-semibold mb-2">
                   Select party:
               </label>
             <select id="color" 
